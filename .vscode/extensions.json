@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "orta.vscode-jest",
+    "codeium.codeium",
+    "formulahendry.code-runner",
+    "streetsidesoftware.code-spell-checker",
+    "pmneo.tsimporter"
+  ]
+}
